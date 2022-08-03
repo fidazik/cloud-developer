@@ -1,2 +1,2 @@
 # cloud-developer
-Content for Udacity's cloud developer nanodegree.
+This is content for Udacity's cloud developer nanodegree.
